@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Administrator/Desktop/SERIAL_PARALLEL
+vse_pa_testbench
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 JY]>VALeiUFX4S47IlN4?2
+I59EYBlflZ7[=5<h?B@U<:2
+Z1 dC:/Users/Administrator/Desktop/SIPO
+w1596536355
+8C:/Users/Administrator/Desktop/SIPO/SIPO_testbench.v
+FC:/Users/Administrator/Desktop/SIPO/SIPO_testbench.v
+L0 1
+Z2 OL;L;10.4e;61
+!s108 1596536386.000000
+!s107 C:/Users/Administrator/Desktop/SIPO/SIPO_testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Administrator/Desktop/SIPO/SIPO_testbench.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsipo
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 [oofS>dfSC8AI1Ej`TjT03
+I0H0hVfEPbCoY6Z8S=b5n<1
+R1
+w1596536384
+8C:/Users/Administrator/Desktop/SIPO/SIPO.v
+FC:/Users/Administrator/Desktop/SIPO/SIPO.v
+L0 1
+R2
+!s108 1596536385.000000
+!s107 C:/Users/Administrator/Desktop/SIPO/SIPO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Administrator/Desktop/SIPO/SIPO.v|
+!i113 0
+R3

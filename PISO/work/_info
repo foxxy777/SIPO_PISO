@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Administrator/Desktop/SIPO
+vpiso
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 H[[W`S9cFF2hcz2:CgMl[0
+IV;QJoClCPB=9[fS[b:z3N0
+Z1 dC:/Users/Administrator/Desktop/PISO
+w1596537462
+8C:/Users/Administrator/Desktop/PISO/PISO.v
+FC:/Users/Administrator/Desktop/PISO/PISO.v
+L0 1
+Z2 OL;L;10.4e;61
+Z3 !s108 1596537542.000000
+!s107 C:/Users/Administrator/Desktop/PISO/PISO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Administrator/Desktop/PISO/PISO.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpiso_testbench
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 jP`b_meAPMT_]_AH?3R<<1
+IgU2N:NcX=k7XU6XXogP?R3
+R1
+w1596537526
+8C:/Users/Administrator/Desktop/PISO/PISO_testbench.v
+FC:/Users/Administrator/Desktop/PISO/PISO_testbench.v
+L0 2
+R2
+R3
+!s107 C:/Users/Administrator/Desktop/PISO/PISO_testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Administrator/Desktop/PISO/PISO_testbench.v|
+!i113 0
+R4
